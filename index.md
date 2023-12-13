@@ -88,45 +88,45 @@ We are a team of interdisciplinary researchers working in the various fields of 
 
 {%
   include card.html
-  image="images/photo.jpg"
+  image="images/lines/evolution.png"
   link="lines/systems_evolution.html"
   title="Evolution of biological systems"
   subtitle="A cool description"
-  style="small"
+  style="large"
 %}
 
 {%
   include card.html
-  image="images/photo.jpg"
+  image="images/lines/networks.png"
   link="lines/bio_nets.html"
   title="Analysis of biological networks"
   subtitle="Regulatory networks, PPI and coexpression"
-  style="small"
+  style="large"
 %}
 
 {%
   include card.html
-  image="images/photo.jpg"
+  image="images/lines/transcriptomics_line.jpg"
   link="lines/transcriptomics.html"
   title="Transcriptional analyses"
   subtitle="Microarray, Bulk RNA-seq and scRNA-seq"
-  style="small"
+  style="large"
 %}
 
 {%
   include card.html
-  image="images/photo.jpg"
+  image="images/lines/metagenomics_lines.jpg"
   link="lines/metagenomics.html"
   title="Metagenomics analyses"
   subtitle="Diversity analysis, functional annotation and MAGs"
-  style="small"
+  style="large"
 %}
 
 {%
   include card.html
-  image="images/photo.jpg"
+  image="images/lines/dev.png"
   link="lines/tools.html"
   title="Development of bioinformatics tools"
   subtitle="Pipelines, R packages and Python libraries"
-  style="small"
+  style="large"
 %}
