@@ -1,9 +1,11 @@
 ---
 ---
 
-# jvfe's Website
+# Where data and biology meet
 
-An engaging 1-3 sentence description of your lab.
+Professor Dalmolin's systems biology research group advances biomedical knowledge through bioinformatics. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+{% include figure.html image="images/group_foto.jpg" width="80%" %}
 
 {% include section.html %}
 
@@ -11,7 +13,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on the Evolution of biological systems, Analysis of biological networks, Transcriptional and Metagenomic analyses and the Development of novel bioinformatics tools.
 
 {%
   include button.html
@@ -26,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/our_research.png"
   link="research"
   title="Our Research"
   text=text
@@ -34,12 +36,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Streamline your investigation with our tools and pipelines. All open source and well documented.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="tools"
+  text="Browse our tools"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +51,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tools/kpv_figure.jpg"
   link="projects"
-  title="Our Projects"
+  title="Tools by researchers, for researchers"
   flip=true
   style="bare"
   text=text
@@ -59,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a team of interdisciplinary researchers working in the various fields of bioinformatics. We strive for excellence in research and diversity and inclusivity are our values.
 
 {%
   include button.html
@@ -74,8 +76,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/grupo_foto2.jpg"
   link="team"
-  title="Our Team"
+  title="Building excellence in bioinformatics"
   text=text
 %}

@@ -1,0 +1,53 @@
+- title: KEGG Pathway Viewer
+  subtitle: The online tool to visualize and interact with KEGG metabolic pathways
+  group: featured
+  image: images/tools/kpv_figure.jpg
+  link: https://github.com/igorabrandao/kegg-network-viewer
+  description: The network elaborated in our study contemplates protein classifications according to the AP detection algorithm,facilitating the visual identification of the most important proteins of a network.
+  repo: igorabrandao/kegg-network-viewer
+  tags:
+      - resource
+      - website
+
+- title: Transcriptogramer
+  subtitle: R/Bioconductor package for transcriptional analysis based on transcriptograms
+  group: featured
+  image: images/tools/transcriptogramer.png
+  link: https://bioconductor.org/packages/release/bioc/html/transcriptogramer.html
+  description: Transcriptograms are genome wide gene expression profiles that provide a global view for the cellular metabolism, while indicating gene sets whose expressions are altered.
+  repo: arthurvinx/transcriptogramer
+  tags:
+      - package
+      - r
+      - bioconductor
+      - expression
+
+- title: GenePlast
+  subtitle: Evolutionary and plasticity analysis of orthologous groups
+  image: images/tools/geneplast.png
+  link: https://bioconductor.org/packages/release/bioc/html/geneplast.html
+  description: Geneplast is designed for evolutionary and plasticity analysis based on orthologous groups distribution in a given species tree.
+  tags:
+      - package
+      - r
+      - bioconductor
+      - orthology
+      - evolution
+
+- title: MEDUSA/EURYALE
+  subtitle: Analysis pipelines for Shotgun metagenomics data
+  image: images/tools/LOGOTIPO_EURYALE-08.png
+  link: https://dalmolingroup.github.io/euryale/
+  description: A pipeline for sensitive taxonomic classification and flexible functional annotation of shotgun metagenomic data.
+  repo: dalmolingroup/euryale
+  tags:
+      - pipeline
+
+- title: BulkRNA
+  subtitle: An analysis pipeline for pre-processing, alignment and quantification of bulk RNA-Seq data.
+  image: images/photo.jpg
+  link: https://dalmolingroup.github.io/bulkrna/
+  description: Dalmolin Group's workflow for pre-processing, alignment and quantification of bulk RNA-seq data.
+  repo: dalmolingroup/bulkrna
+  tags:
+      - software

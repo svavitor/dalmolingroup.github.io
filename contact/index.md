@@ -1,33 +1,27 @@
 ---
 title: Contact
 nav:
-  order: 5
-  tooltip: Email, address, and location
+    order: 5
+    tooltip: Email, address, and location
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is part of the Federal University of Rio Grande do Norte’s [Bioinformatics Multidisciplinary Environment](https://bioinfo.imd.ufrn.br/site). Our team is headquartered on the 2nd Floor of the [Brain Institute](https://neuro.ufrn.br/) (ICe).
+
+{% include figure.html image="images/biome_logo_atual.png" link="https://bioinfo.imd.ufrn.br/site" width="500px" %}
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="rodrigo.dalmolin@imd.ufrn.br"
+  link="rodrigo.dalmolin@imd.ufrn.br"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/EwQLm7f39YF5e8kw8"
 %}
 
 {% include section.html %}
@@ -36,8 +30,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/ice_foto.jpg"
+  caption="© Cícero Oliveira"
 %}
 
 {% endcapture %}
@@ -46,32 +40,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/ice_foto2.jpg"
 %}
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
