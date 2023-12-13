@@ -81,3 +81,52 @@ We are a team of interdisciplinary researchers working in the various fields of 
   title="Building excellence in bioinformatics"
   text=text
 %}
+
+{% include section.html %}
+
+## Our lines of research
+
+{%
+  include card.html
+  image="images/photo.jpg"
+  link="lines/systems_evolution.html"
+  title="Evolution of biological systems"
+  subtitle="A cool description"
+  style="small"
+%}
+
+{%
+  include card.html
+  image="images/photo.jpg"
+  link="lines/bio_nets.html"
+  title="Analysis of biological networks"
+  subtitle="Regulatory networks, PPI and coexpression"
+  style="small"
+%}
+
+{%
+  include card.html
+  image="images/photo.jpg"
+  link="lines/transcriptomics.html"
+  title="Transcriptional analyses"
+  subtitle="Microarray, Bulk RNA-seq and scRNA-seq"
+  style="small"
+%}
+
+{%
+  include card.html
+  image="images/photo.jpg"
+  link="lines/metagenomics.html"
+  title="Metagenomics analyses"
+  subtitle="Diversity analysis, functional annotation and MAGs"
+  style="small"
+%}
+
+{%
+  include card.html
+  image="images/photo.jpg"
+  link="lines/tools.html"
+  title="Development of bioinformatics tools"
+  subtitle="Pipelines, R packages and Python libraries"
+  style="small"
+%}
