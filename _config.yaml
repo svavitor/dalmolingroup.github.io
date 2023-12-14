@@ -28,7 +28,7 @@ defaults:
           layout: member
     # markdown files in /_posts
     - scope:
-          type: "posts"
+          type: "lines"
       values:
           layout: post
 
@@ -36,8 +36,8 @@ collections:
     # generate page for each member
     members:
         output: true
-    # generate page for each post
-    posts:
+    # generate page for each research line
+    lines:
         output: true
 
 # jekyll plugins
