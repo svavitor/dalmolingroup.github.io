@@ -5,6 +5,7 @@ role: postdoc
 links:
     github: tiberioap
     orcid: 0000-0003-1856-6881
+    lattes: "0492002594855025"
 aliases:
     - T. A. Pereira
     - Tibério A. Pereira

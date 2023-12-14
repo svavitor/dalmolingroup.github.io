@@ -5,6 +5,7 @@ role: postdoc
 links:
     github: iaradsouza1
     orcid: 0000-0002-2550-6150
+    lattes: "8983310940285796"
 aliases:
     - Iara D. de Souza
     - Iara Dantas de Souza
