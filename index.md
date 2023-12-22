@@ -91,7 +91,7 @@ We are a team of interdisciplinary researchers working in the various fields of 
   image="images/lines/evolution.png"
   link="lines/systems_evolution"
   title="Evolution of biological systems"
-  subtitle="A cool description"
+  subtitle="Systemic root inference for orthologous groups"
   style="small"
 %}
 
