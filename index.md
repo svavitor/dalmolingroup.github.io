@@ -3,7 +3,7 @@
 
 # Where data and biology meet
 
-The Dalmolin Systems Biology Group advances biomedical knowledge through Bioinformatics and Systems Biology. Our mission is to unravel the intricate complexities of biological systems through innovative approaches and advanced methodologies. Committed to excellence, our team is dedicated to addressing a diverse array of biological challenges using the powerful lens of systems biology. Our reseach group is led by professor Rodrigo Dalmolin, Ph.D. and it is associated with graduate program in Bioinformatics from the Federal University of Rio Grande do Norte (UFRN).
+The Dalmolin Systems Biology Group advances biomedical knowledge through Bioinformatics and Systems Biology. Our mission is to unravel the intricate complexities of biological systems through innovative approaches and advanced methodologies. Committed to excellence, our team is dedicated to addressing a diverse array of biological challenges using the powerful lens of systems biology. Our reseach group is led by professor Rodrigo Dalmolin, Ph.D. and it is associated with Graduate Program in Bioinformatics from the Federal University of Rio Grande do Norte (UFRN).
 
 {% include figure.html image="images/group_foto.jpg" width="80%" %}
 
@@ -13,7 +13,7 @@ The Dalmolin Systems Biology Group advances biomedical knowledge through Bioinfo
 
 {% capture text %}
 
-Our research focuses on the Evolution of biological systems, Analysis of biological networks, Transcriptional analysis, Metagenomic analyses, and the Development of novel bioinformatics tools.
+Our research focuses on the **evolution of biological systems**, **analysis of biological networks**, **transcriptional analysis**, **metagenomic analyses**, and the **development of novel bioinformatics tools**.
 
 {%
   include button.html
@@ -61,7 +61,7 @@ Streamline your investigation with our tools and pipelines. All open source and 
 
 {% capture text %}
 
-We are a team of interdisciplinary researchers working in the various fields of bioinformatics. We strive for excellence in research and diversity and inclusivity are our values.
+We are a team of interdisciplinary researchers working in the various fields of bioinformatics. We strive for **excellence** in research and **diversity** and **inclusivity** are our values.
 
 {%
   include button.html
