@@ -1,9 +1,9 @@
 ---
 ---
 
-# Where data and biology meet
+# Looking at biology from a systemic perspective
 
-Professor Dalmolin's systems biology research group advances biomedical knowledge through bioinformatics. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Dalmolin Systems Biology Group advances biomedical knowledge through Bioinformatics and Systems Biology. Our mission is to unravel the intricate complexities of biological systems through innovative approaches and advanced methodologies. Committed to excellence, our team is dedicated to addressing a diverse array of biological challenges using the powerful lens of systems biology. Our reseach group is led by professor Rodrigo Dalmolin, Ph.D. and it is associated with the Graduate Program in Bioinformatics from the Federal University of Rio Grande do Norte (UFRN).
 
 {% include figure.html image="images/group_foto.jpg" width="80%" %}
 
@@ -13,7 +13,7 @@ Professor Dalmolin's systems biology research group advances biomedical knowledg
 
 {% capture text %}
 
-Our research focuses on the Evolution of biological systems, Analysis of biological networks, Transcriptional and Metagenomic analyses and the Development of novel bioinformatics tools.
+Our research focuses on the **evolution of biological systems**, **analysis of biological networks**, **transcriptional analysis**, **metagenomic analyses**, and the **development of novel bioinformatics tools**.
 
 {%
   include button.html
@@ -36,7 +36,7 @@ Our research focuses on the Evolution of biological systems, Analysis of biologi
 
 {% capture text %}
 
-Streamline your investigation with our tools and pipelines. All open source and well documented.
+Streamline your investigation with our tools and pipelines. All open source and well documented. Don't know how to use them? Get in touch with us! See the contact information. 
 
 {%
   include button.html
@@ -61,7 +61,7 @@ Streamline your investigation with our tools and pipelines. All open source and 
 
 {% capture text %}
 
-We are a team of interdisciplinary researchers working in the various fields of bioinformatics. We strive for excellence in research and diversity and inclusivity are our values.
+We are a team of interdisciplinary researchers working in the various fields of bioinformatics. We strive for **excellence** in research and **diversity** and **inclusivity** are our values.
 
 {%
   include button.html
@@ -91,7 +91,7 @@ We are a team of interdisciplinary researchers working in the various fields of 
   image="images/lines/evolution.png"
   link="lines/systems_evolution"
   title="Evolution of biological systems"
-  subtitle="A cool description"
+  subtitle="Systemic root inference for orthologous groups"
   style="small"
 %}
 
