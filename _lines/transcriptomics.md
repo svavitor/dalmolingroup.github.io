@@ -1,6 +1,8 @@
 ---
-title: Transcriptional Analyses
-description: Microarray, Bulk RNA-seq and scRNA-seq
+title: Transcriptional analyses
+subtitle: Microarray, Bulk RNA-seq and scRNA-seq
+image: images/lines/transcriptomics_line.jpg
+link: lines/transcriptomics
 ---
 
 # What is Transcriptomics?

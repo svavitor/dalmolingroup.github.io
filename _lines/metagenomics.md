@@ -1,6 +1,8 @@
 ---
 title: Metagenomics analyses
-description: Diversity analysis, functional annotation and MAGs
+subtitle: "Diversity analysis, functional annotation and MAGs"
+image: "images/lines/metagenomics_lines.jpg"
+link: lines/metagenomics
 ---
 
 # Where do we start?

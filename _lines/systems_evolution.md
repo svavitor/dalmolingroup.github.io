@@ -1,6 +1,8 @@
 ---
 title: Evolution of biological systems
-description: Systemic root inference of orthologous groups
+subtitle: "Systemic root inference of orthologous groups"
+image: images/lines/evolution.png
+link: lines/systems_evolution
 ---
 
 # An algorithm to systemically infer the evolutionary root of orthologous groups
