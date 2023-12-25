@@ -51,3 +51,35 @@
   repo: dalmolingroup/bulkrna
   tags:
       - software
+
+- title: geneplast.data
+  subtitle: Supporting data for geneplast evolutionary analyses
+  image: images/tools/geneplast_data.png
+  link: https://bioconductor.org/packages/release/data/annotation/html/geneplast.data.html
+  description: "Provides datasets from different sources via AnnotationHub to use in geneplast pipelines.
+  The datasets have species, phylogenetic trees, and orthology relationships among eukaryotes from different orthologs databases."
+  tags:
+      - package
+      - r
+      - bioconductor
+      - orthology
+      - evolution
+      - data
+
+- title: annotate
+  subtitle: Annotate each query using the best alignment for which a mapping is known.
+  image: images/photo.jpg
+  link: https://github.com/dalmolingroup/annotate
+  description: A  Python tool that annotates each query from a BLAST/DIAMOND tabular output using the best alignment for which a mapping is known.
+  repo: dalmolingroup/annotate
+  tags:
+      - library
+
+- title: Seriation
+  subtitle: C code to find a suitable linear order for a set of proteins.
+  image: images/photo.jpg
+  link: https://github.com/dalmolingroup/seriation
+  description: Solves the Seriation problem finding a suitable linear order for a set of proteins. The result is a list of proteins ordered in one dimension such that functionally associated proteins are closer.
+  repo: dalmolingroup/seriation
+  tags:
+      - software
