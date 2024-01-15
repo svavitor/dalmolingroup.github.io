@@ -2,7 +2,7 @@
   subtitle: The online tool to visualize and interact with KEGG metabolic pathways
   group: featured
   image: images/tools/kpv_figure.jpg
-  link: https://github.com/igorabrandao/kegg-network-viewer
+  link: https://dalmolingroup.imd.ufrn.br/kegg-network-viewer/
   description: The network elaborated in our study contemplates protein classifications according to the AP detection algorithm,facilitating the visual identification of the most important proteins of a network.
   repo: igorabrandao/kegg-network-viewer
   tags:
