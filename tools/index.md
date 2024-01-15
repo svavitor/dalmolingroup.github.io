@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Tools
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here you will find the computational tools developed on the Dalmolin Systems Biology Group. We are committed to the best practices on software developing and documentation. However if you need any help on the usage, [feel free to contact us](/contact/). 
 
 {% include tags.html tags="publication, resource, website" %}
 
