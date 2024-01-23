@@ -18,7 +18,7 @@ Our research focuses on the **evolution of biological systems**, **analysis of b
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Learn about our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
