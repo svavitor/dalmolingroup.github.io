@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/molbev/msae019
+  title: '<i>Bridge</i>: A New Algorithm for Rooting Orthologous Genes in Large-Scale
+    Evolutionary Analysis'
+  authors:
+  - Leonardo RS Campos
+  - Sheyla Trefflich
+  - Diego AA Morais
+  - Danilo O Imparato
+  - Vinicius S Chagas
+  - "Ricardo D\u2019Oliveira Albanus"
+  - Rodrigo JS Dalmolin
+  - Mauro AA Castro
+  publisher: Molecular Biology and Evolution
+  date: '2024-02-02'
+  link: https://doi.org/gtgw4v
+  orcid: 0000-0002-1688-6155
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1089/omi.2023.0232
   title: 'Bridging the Gaps in Meta-Omic Analysis: Workflows and Reproducibility'
   authors:
