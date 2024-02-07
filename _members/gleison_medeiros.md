@@ -5,6 +5,7 @@ description: Undergrad Student
 role: undergrad
 links:
     github: gleisonm
+    orcid: 0009-0003-4438-2135
     lattes: "3943323611794371"
 aliases:
     - Gleison Medeiros de Azevedo
