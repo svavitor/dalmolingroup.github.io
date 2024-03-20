@@ -8,7 +8,9 @@ links:
     github: jvfe
     orcid: 0000-0001-7513-7376
     lattes: "5714602163308583"
+    linkedin: joao-vitor-cavalcante
 aliases:
+    - João Vitor Cavalcante
     - João Vitor Ferreira Cavalcante
     - João V. F. Cavalcante
     - João Vitor F. Cavalcante
