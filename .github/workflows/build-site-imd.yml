@@ -24,11 +24,5 @@ jobs:
       - name: Checkout branch contents
         uses: actions/checkout@v3
 
-      - name: Get Pages url
-        id: pages
-        uses: actions/configure-pages@v2
-        with:
-          enablement: false
-
       - name: Build live version of site
         run: bundle exec jekyll build
