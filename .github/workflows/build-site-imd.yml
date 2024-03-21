@@ -18,11 +18,11 @@ jobs:
     runs-on: self-hosted
 
     steps:
-      - name: Print contexts
-        uses: crazy-max/ghaction-dump-context@v1
-
       - name: Checkout branch contents
         uses: actions/checkout@v3
 
-      - name: Build live version of site
-        run: bundle exec jekyll build
+      - name: install bundle gems
+        run: ~/install_gems.sh
+        
+      - name: build web site
+        run: ~/build_site.sh
