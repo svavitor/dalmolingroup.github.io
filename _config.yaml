@@ -4,6 +4,7 @@ logo-text: false
 description: "Looking at biology from a systemic perspective"
 header: images/banner.jpg
 footer: images/banner.jpg
+permalink: pretty
 
 # site social media and other links
 links:
