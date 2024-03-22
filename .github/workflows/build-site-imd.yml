@@ -9,8 +9,9 @@ on:
   
 jobs:
 
-  deploy:
+  deployment:
     runs-on: self-hosted
+    environment: production
 
     steps:
       - name: Checkout branch contents
