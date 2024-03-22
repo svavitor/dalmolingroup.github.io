@@ -11,7 +11,7 @@ jobs:
 
   deployment:
     runs-on: self-hosted
-    environment: production
+    environment: imd-host
 
     steps:
       - name: Checkout branch contents
