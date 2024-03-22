@@ -11,7 +11,9 @@ jobs:
 
   deployment:
     runs-on: self-hosted
-    environment: imd-host
+    environment: 
+      name: imd-host
+      url: https://dalmolingroup.imd.ufrn.br/
 
     steps:
       - name: Checkout branch contents
