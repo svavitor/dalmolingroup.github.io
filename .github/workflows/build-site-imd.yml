@@ -23,4 +23,4 @@ jobs:
         run: rm -rf $HOME/public_html/dalmolingroup.imd.ufrn.br
         
       - name: Publish
-        run: cp _site $HOME/public_html/dalmolingroup.imd.ufrn.br
+        run: cp -r _site $HOME/public_html/dalmolingroup.imd.ufrn.br
