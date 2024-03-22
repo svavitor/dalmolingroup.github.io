@@ -19,8 +19,11 @@ jobs:
       - name: Build web site
         run: bundle exec jekyll build
         
-      - name: Clear publish folder
+      - name: Clean up publish folder before publishing
         run: rm -rf $HOME/public_html/dalmolingroup.imd.ufrn.br
         
-      - name: Publish
+      - name: Publish website
         run: cp -r _site $HOME/public_html/dalmolingroup.imd.ufrn.br
+      
+      - name: Clean up workspace
+        run: rm -rf ${{ github.workspace }}/*
