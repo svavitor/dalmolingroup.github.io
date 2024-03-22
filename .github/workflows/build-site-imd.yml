@@ -7,22 +7,20 @@ on:
     
   workflow_dispatch:
   
-env:
-  PREVIEWS_FOLDER: preview
-
-permissions:
-  contents: write
-
 jobs:
-  build-site:
+
+  deploy:
     runs-on: self-hosted
 
     steps:
       - name: Checkout branch contents
         uses: actions/checkout@v3
 
-      - name: install bundle gems
-        run: ~/install_gems.sh
+      - name: Build web site
+        run: bundle exec jekyll build
         
-      - name: build web site
-        run: ~/build_site.sh
+      - name: Clear publish folder
+        run: rm -rf $HOME/public_html/dalmolingroup.imd.ufrn.br
+        
+      - name: Publish
+        run: cp _site $HOME/public_html/dalmolingroup.imd.ufrn.br
